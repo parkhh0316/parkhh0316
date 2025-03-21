@@ -1,16 +1,22 @@
-## Hi there 👋
+## Introduction
 
-<!--
-**parkhh0316/parkhh0316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Park, Hyeonghoo**<br>
+Majoring in archaeology<br>
+Seoul, Republic of Korea<br>
 
-Here are some ideas to get you started:
+## Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  Cheonam National University, Gwangju<br>
+&nbsp; Department of Cultural Anthropology and Archaeology / B.A.
+
+###  Cheonam National University, Gwangju<br>
+&nbsp; Department of Cultural Anthropology and Archaeology / M.A.
+
+## Affiliation
+
+### Seoul National Research Institute of Cultural Heritage<br>
+&nbsp; Researcher
+
+## Tech Stack
+
+![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=ArcGIS&logoColor=white)
